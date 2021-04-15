@@ -34,6 +34,6 @@ public class App {
         }
         else {
             System.out.println("The triangle is na monazam");
-        }
+        } 
     }
 }
